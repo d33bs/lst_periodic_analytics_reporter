@@ -1,0 +1,6 @@
+{
+"base_url":"https://<your mediasite domain location>/mediasite/Api/v1/",
+"api_secret":"<your mediasite api secret>",
+"api_user":"<your mediasite api user>",
+"api_pass":"<your mediasite api password>"
+}

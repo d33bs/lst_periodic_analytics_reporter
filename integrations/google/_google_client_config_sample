@@ -1,0 +1,6 @@
+{
+"auth_scope":"<your google api authentication scope>",
+"auth_secret":"<your google api secret file>",
+"app_name":"<your google api application name>"
+"delegate":"<google api delegate>"
+}
